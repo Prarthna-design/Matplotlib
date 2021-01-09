@@ -12,4 +12,5 @@ added code to combine data tinto a single preview
 added code to display the data table for preview
 added code to check the number of mice
 added code to get the duplicate mice by ID number that hows upo for Mouce ID and Timepoint
+We chose to add code to get all the data for the duplicate mouse ID
 
