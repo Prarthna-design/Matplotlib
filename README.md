@@ -11,4 +11,5 @@ addedd code to be able to read the mouse data and the study result
 added code to combine data tinto a single preview
 added code to display the data table for preview
 added code to check the number of mice
+added code to get the duplicate mice by ID number that hows upo for Mouce ID and Timepoint
 
