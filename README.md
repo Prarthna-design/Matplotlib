@@ -40,3 +40,4 @@ Added code to chek the number of mice in the clean DataFrame
 Added code for Summary Statistics
 
 
+Added code to create table of mean, median, variance, standard deviation, and SEM 
