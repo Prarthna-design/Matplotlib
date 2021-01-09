@@ -49,3 +49,6 @@ Added code to generate a bar plot
 Added code to generate Bar Plot for total number of mice for different categories
 
 Added code to generate pie chart
+
+
+Added code to generate Quartiles, Outliers and Boxplots
