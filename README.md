@@ -6,3 +6,4 @@ Capomulin had the most number of mice complete the study, with the exception of 
 There is a strong correlation between mouse weight and tumor volume, indicating that mouse weight may be contributing to the effectiveness of any drug regimen.
 There was one potential outlier within the Infubinol regimen. While most mice showed tumor volume increase, there was one mouse that had a reduction in tumor growth in the study.
 added Dependencies and Setup
+viewed data file
