@@ -37,4 +37,6 @@ Added code to create a clean DataFrame by dropping the duplicate mouse by its ID
 Added code to chek the number of mice in the clean DataFrame
 
 
+Added code for Summary Statistics
+
 
