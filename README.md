@@ -9,3 +9,4 @@ added Dependencies and Setup
 added code to view data file
 addedd code to be able to read the mouse data and the study result 
 added code to combine data tinto a single preview
+added code to display the data table for preview
