@@ -41,3 +41,6 @@ Added code for Summary Statistics
 
 
 Added code to create table of mean, median, variance, standard deviation, and SEM 
+
+
+Added code to generate a bar plot
