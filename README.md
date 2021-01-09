@@ -14,4 +14,4 @@ added code to check the number of mice
 added code to get the duplicate mice by ID number that hows upo for Mouce ID and Timepoint
 We chose to add code to get all the data for the duplicate mouse ID
 added code to create a clean DataFrame by dropping the duplicate mouse by its ID
-
+added code to chek the number of mice in the clean DataFrame
